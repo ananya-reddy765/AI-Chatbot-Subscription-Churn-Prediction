@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>AI Churn Predictor</title>
+  <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+  {% include 'sidebar.html' %}
+  <main class="main">
+    <div class="hero">
+      <div class="hero-badge">AI-Powered Prediction</div>
+      <h1>AI Chatbot Subscription<br><span>Churn Prediction</span></h1>
+      <p>Predict whether a user will stay or churn using a logistic regression model
+         built from scratch with NumPy — trained on chatbot usage behaviour.</p>
+
+      <div class="features">
+        <div class="feature-card">
+          <div class="feature-icon">📊</div>
+          <h3>Behaviour Analysis</h3>
+          <p>Analyse user behaviour and engagement patterns across 7 key features</p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon">🧠</div>
+          <h3>ML Powered</h3>
+          <p>Custom logistic regression with gradient descent — built from scratch</p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon">⚡</div>
+          <h3>Real-time Prediction</h3>
+          <p>Instant churn probability with feature-level explanation</p>
+        </div>
+      </div>
+
+      <a href="/predict" class="btn-primary">Start Prediction &rarr;</a>
+    </div>
+  </main>
+</body>
+</html>

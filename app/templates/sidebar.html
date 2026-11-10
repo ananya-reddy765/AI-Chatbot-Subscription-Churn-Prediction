@@ -1,0 +1,19 @@
+<aside class="sidebar">
+  <div class="sidebar-logo">
+    <div class="logo-icon">AI</div>
+    <div class="logo-text">AI Churn<br>Predictor</div>
+  </div>
+
+  <nav>
+    <a href="/"          class="nav-item {% if request.path=='/' %}active{% endif %}">
+      <span class="icon">⌂</span> Home</a>
+    <a href="/predict"   class="nav-item {% if request.path=='/predict' %}active{% endif %}">
+      <span class="icon">◎</span> Predict</a>
+    <a href="/analytics" class="nav-item {% if request.path=='/analytics' %}active{% endif %}">
+      <span class="icon">↗</span> Analytics</a>
+  </nav>
+
+  <div class="sidebar-footer">
+    <a href="/" class="nav-item"><span class="icon">⇤</span> Logout</a>
+  </div>
+</aside>

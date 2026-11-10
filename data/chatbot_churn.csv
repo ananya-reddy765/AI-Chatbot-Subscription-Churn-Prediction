@@ -1,0 +1,1001 @@
+usage_duration,subscription_plan,daily_activity,session_length,usage_frequency,experience_rating,last_active,churn
+3-6 months,Free,91,15-30 min,High (5-7),2,8-14 days,0
+12+ months,Basic,6,15-30 min,Low (1-2),3,4-7 days,1
+6-12 months,Pro,34,<5 min,Medium (3-4),5,Today,0
+6-12 months,Pro,54,<5 min,Medium (3-4),5,Today,0
+0-3 months,Pro,91,15-30 min,Low (1-2),2,Today,0
+0-3 months,Pro,13,15-30 min,Medium (3-4),5,Today,0
+0-3 months,Pro,9,30+ min,High (5-7),3,4-7 days,0
+12+ months,Pro,79,15-30 min,Low (1-2),4,15+ days,0
+6-12 months,Free,15,30+ min,Low (1-2),4,Today,1
+6-12 months,Basic,53,15-30 min,Low (1-2),5,Today,0
+0-3 months,Free,94,5-15 min,Low (1-2),5,4-7 days,0
+12+ months,Enterprise,88,<5 min,High (5-7),3,15+ days,0
+12+ months,Enterprise,76,15-30 min,Medium (3-4),5,1-3 days,0
+0-3 months,Free,69,15-30 min,Medium (3-4),2,1-3 days,0
+0-3 months,Pro,43,<5 min,High (5-7),4,4-7 days,0
+0-3 months,Enterprise,72,5-15 min,Low (1-2),4,1-3 days,0
+3-6 months,Free,44,30+ min,Medium (3-4),4,Today,0
+6-12 months,Basic,99,15-30 min,Medium (3-4),3,8-14 days,0
+3-6 months,Enterprise,55,5-15 min,Medium (3-4),5,4-7 days,0
+3-6 months,Free,83,5-15 min,High (5-7),2,4-7 days,0
+6-12 months,Pro,81,5-15 min,High (5-7),1,8-14 days,0
+0-3 months,Free,56,5-15 min,Medium (3-4),4,8-14 days,0
+3-6 months,Enterprise,20,5-15 min,High (5-7),3,Today,0
+3-6 months,Enterprise,67,<5 min,Low (1-2),5,1-3 days,0
+3-6 months,Enterprise,49,15-30 min,Low (1-2),3,Today,0
+12+ months,Basic,32,5-15 min,Low (1-2),2,Today,0
+0-3 months,Pro,90,30+ min,Medium (3-4),5,8-14 days,0
+6-12 months,Pro,6,30+ min,Medium (3-4),4,15+ days,1
+6-12 months,Free,69,5-15 min,Medium (3-4),2,15+ days,1
+0-3 months,Pro,14,15-30 min,High (5-7),4,4-7 days,0
+6-12 months,Free,81,5-15 min,Medium (3-4),4,Today,0
+0-3 months,Basic,31,30+ min,Medium (3-4),4,Today,0
+0-3 months,Free,74,5-15 min,Low (1-2),3,15+ days,1
+12+ months,Free,19,15-30 min,Low (1-2),5,4-7 days,0
+12+ months,Free,87,15-30 min,Medium (3-4),5,4-7 days,0
+12+ months,Pro,14,5-15 min,Medium (3-4),4,8-14 days,0
+3-6 months,Free,47,<5 min,High (5-7),2,8-14 days,1
+0-3 months,Pro,70,15-30 min,Low (1-2),5,15+ days,0
+6-12 months,Free,20,15-30 min,Low (1-2),4,Today,0
+3-6 months,Free,41,5-15 min,Medium (3-4),4,8-14 days,0
+0-3 months,Basic,25,15-30 min,Low (1-2),3,15+ days,1
+3-6 months,Pro,13,5-15 min,Low (1-2),5,1-3 days,0
+0-3 months,Free,56,15-30 min,High (5-7),4,4-7 days,0
+12+ months,Basic,36,<5 min,Low (1-2),2,1-3 days,1
+3-6 months,Pro,57,30+ min,Medium (3-4),3,15+ days,1
+6-12 months,Basic,20,5-15 min,Low (1-2),5,Today,0
+3-6 months,Free,81,5-15 min,Low (1-2),1,4-7 days,1
+6-12 months,Free,68,<5 min,Medium (3-4),5,Today,0
+6-12 months,Pro,2,<5 min,High (5-7),4,8-14 days,0
+0-3 months,Free,86,15-30 min,Medium (3-4),4,Today,0
+12+ months,Pro,89,5-15 min,High (5-7),3,Today,0
+12+ months,Basic,36,30+ min,Low (1-2),2,4-7 days,1
+12+ months,Enterprise,87,<5 min,High (5-7),5,15+ days,0
+12+ months,Pro,48,5-15 min,Low (1-2),3,Today,0
+6-12 months,Enterprise,18,5-15 min,Medium (3-4),4,Today,0
+12+ months,Basic,88,<5 min,Medium (3-4),3,8-14 days,1
+0-3 months,Pro,84,<5 min,High (5-7),2,4-7 days,0
+0-3 months,Basic,11,5-15 min,Medium (3-4),1,15+ days,1
+0-3 months,Basic,60,5-15 min,Low (1-2),4,Today,0
+3-6 months,Basic,40,5-15 min,Low (1-2),5,4-7 days,1
+3-6 months,Pro,32,15-30 min,High (5-7),3,Today,0
+3-6 months,Enterprise,49,15-30 min,Medium (3-4),3,Today,0
+12+ months,Pro,67,<5 min,High (5-7),3,8-14 days,0
+3-6 months,Basic,70,5-15 min,Low (1-2),4,4-7 days,0
+3-6 months,Basic,85,30+ min,Medium (3-4),3,8-14 days,0
+6-12 months,Pro,32,15-30 min,Low (1-2),5,1-3 days,0
+0-3 months,Free,80,15-30 min,High (5-7),4,1-3 days,0
+12+ months,Free,23,5-15 min,Medium (3-4),4,1-3 days,0
+0-3 months,Basic,60,15-30 min,High (5-7),2,15+ days,0
+12+ months,Free,60,15-30 min,Low (1-2),5,1-3 days,0
+12+ months,Free,97,15-30 min,Medium (3-4),2,1-3 days,0
+0-3 months,Free,27,30+ min,Medium (3-4),1,1-3 days,1
+0-3 months,Free,57,<5 min,Medium (3-4),4,4-7 days,0
+12+ months,Free,42,<5 min,High (5-7),4,1-3 days,0
+6-12 months,Enterprise,40,15-30 min,High (5-7),3,15+ days,0
+6-12 months,Basic,38,30+ min,High (5-7),3,1-3 days,0
+12+ months,Basic,85,<5 min,High (5-7),4,15+ days,0
+0-3 months,Pro,48,5-15 min,Low (1-2),2,Today,0
+3-6 months,Free,16,<5 min,Low (1-2),5,8-14 days,0
+0-3 months,Enterprise,97,5-15 min,High (5-7),4,15+ days,0
+12+ months,Pro,69,15-30 min,Low (1-2),3,Today,0
+6-12 months,Free,69,15-30 min,High (5-7),3,15+ days,1
+3-6 months,Basic,97,5-15 min,High (5-7),3,4-7 days,0
+0-3 months,Pro,64,5-15 min,Medium (3-4),4,15+ days,0
+3-6 months,Enterprise,73,<5 min,High (5-7),4,8-14 days,0
+3-6 months,Basic,84,5-15 min,Medium (3-4),3,1-3 days,0
+6-12 months,Basic,4,15-30 min,Medium (3-4),4,Today,0
+6-12 months,Free,1,30+ min,Low (1-2),5,1-3 days,1
+12+ months,Enterprise,21,30+ min,Medium (3-4),3,Today,0
+3-6 months,Free,56,<5 min,Low (1-2),5,Today,0
+0-3 months,Enterprise,65,30+ min,Medium (3-4),3,Today,0
+6-12 months,Basic,73,15-30 min,High (5-7),1,1-3 days,1
+12+ months,Basic,97,15-30 min,High (5-7),2,8-14 days,0
+6-12 months,Basic,15,5-15 min,Low (1-2),3,Today,0
+12+ months,Free,50,5-15 min,Medium (3-4),2,Today,0
+3-6 months,Free,38,5-15 min,High (5-7),1,4-7 days,1
+6-12 months,Free,85,<5 min,Low (1-2),5,Today,0
+3-6 months,Free,75,5-15 min,Low (1-2),5,Today,0
+0-3 months,Pro,87,5-15 min,Low (1-2),4,Today,0
+0-3 months,Basic,39,5-15 min,Medium (3-4),2,15+ days,1
+0-3 months,Free,37,15-30 min,Low (1-2),2,15+ days,1
+6-12 months,Enterprise,59,5-15 min,High (5-7),1,1-3 days,0
+3-6 months,Pro,58,<5 min,Medium (3-4),4,8-14 days,0
+6-12 months,Enterprise,9,30+ min,Medium (3-4),5,4-7 days,0
+12+ months,Enterprise,98,30+ min,Low (1-2),3,8-14 days,0
+0-3 months,Free,63,15-30 min,Medium (3-4),2,8-14 days,0
+3-6 months,Basic,62,30+ min,Medium (3-4),4,4-7 days,0
+12+ months,Pro,48,15-30 min,High (5-7),3,1-3 days,1
+0-3 months,Pro,63,30+ min,High (5-7),3,Today,0
+0-3 months,Free,31,<5 min,Medium (3-4),4,4-7 days,0
+3-6 months,Pro,6,5-15 min,High (5-7),4,15+ days,1
+0-3 months,Free,20,5-15 min,High (5-7),2,4-7 days,1
+12+ months,Free,19,<5 min,High (5-7),1,15+ days,1
+12+ months,Basic,25,<5 min,Low (1-2),5,15+ days,0
+6-12 months,Basic,67,15-30 min,Low (1-2),2,Today,0
+12+ months,Basic,85,15-30 min,Low (1-2),1,8-14 days,0
+12+ months,Free,14,15-30 min,Medium (3-4),2,8-14 days,1
+0-3 months,Pro,84,<5 min,Medium (3-4),1,15+ days,1
+12+ months,Free,78,30+ min,Medium (3-4),3,15+ days,0
+6-12 months,Free,85,15-30 min,High (5-7),5,8-14 days,0
+12+ months,Pro,91,5-15 min,High (5-7),3,Today,0
+12+ months,Enterprise,13,15-30 min,High (5-7),3,8-14 days,0
+3-6 months,Pro,26,5-15 min,Medium (3-4),4,Today,0
+0-3 months,Pro,39,5-15 min,Medium (3-4),4,8-14 days,0
+0-3 months,Pro,57,30+ min,Low (1-2),5,15+ days,1
+3-6 months,Basic,27,5-15 min,Low (1-2),5,1-3 days,0
+12+ months,Free,25,5-15 min,Low (1-2),1,4-7 days,1
+12+ months,Basic,62,30+ min,Medium (3-4),4,1-3 days,0
+0-3 months,Basic,65,15-30 min,Medium (3-4),3,1-3 days,0
+6-12 months,Free,24,<5 min,High (5-7),5,1-3 days,0
+3-6 months,Pro,2,<5 min,Low (1-2),3,8-14 days,1
+0-3 months,Basic,71,<5 min,High (5-7),5,15+ days,1
+0-3 months,Free,43,15-30 min,Medium (3-4),4,15+ days,1
+3-6 months,Free,96,5-15 min,Low (1-2),2,Today,1
+12+ months,Pro,41,<5 min,Medium (3-4),4,15+ days,0
+3-6 months,Free,98,30+ min,Low (1-2),5,8-14 days,0
+6-12 months,Pro,5,15-30 min,Medium (3-4),5,1-3 days,0
+6-12 months,Basic,38,5-15 min,Medium (3-4),1,Today,0
+3-6 months,Basic,51,15-30 min,Low (1-2),4,1-3 days,0
+12+ months,Basic,22,15-30 min,Low (1-2),3,15+ days,1
+12+ months,Pro,88,<5 min,Medium (3-4),1,4-7 days,1
+3-6 months,Free,49,5-15 min,High (5-7),3,8-14 days,0
+3-6 months,Pro,42,30+ min,Medium (3-4),2,1-3 days,0
+3-6 months,Basic,18,5-15 min,High (5-7),5,8-14 days,0
+3-6 months,Free,68,15-30 min,Medium (3-4),3,Today,0
+0-3 months,Pro,50,5-15 min,High (5-7),5,1-3 days,0
+6-12 months,Pro,10,<5 min,High (5-7),1,4-7 days,0
+6-12 months,Pro,11,<5 min,Medium (3-4),3,Today,0
+0-3 months,Pro,73,5-15 min,Medium (3-4),2,15+ days,0
+3-6 months,Pro,7,5-15 min,High (5-7),2,Today,1
+12+ months,Pro,23,<5 min,Medium (3-4),1,8-14 days,1
+0-3 months,Pro,91,30+ min,Medium (3-4),2,1-3 days,0
+0-3 months,Pro,40,30+ min,Low (1-2),4,4-7 days,0
+3-6 months,Pro,35,15-30 min,High (5-7),3,Today,0
+12+ months,Basic,100,30+ min,High (5-7),3,Today,0
+0-3 months,Pro,84,5-15 min,Low (1-2),3,15+ days,0
+6-12 months,Free,71,30+ min,Medium (3-4),5,1-3 days,0
+12+ months,Pro,54,<5 min,Medium (3-4),5,15+ days,0
+0-3 months,Pro,8,30+ min,Low (1-2),3,15+ days,1
+6-12 months,Free,46,30+ min,High (5-7),3,Today,0
+3-6 months,Pro,14,15-30 min,Low (1-2),2,1-3 days,0
+6-12 months,Free,47,30+ min,Low (1-2),5,8-14 days,0
+6-12 months,Free,81,15-30 min,Medium (3-4),1,15+ days,1
+6-12 months,Pro,41,5-15 min,High (5-7),3,15+ days,0
+0-3 months,Free,59,5-15 min,Low (1-2),3,4-7 days,0
+12+ months,Pro,83,15-30 min,Medium (3-4),3,8-14 days,0
+3-6 months,Pro,69,<5 min,Medium (3-4),2,Today,0
+0-3 months,Basic,11,15-30 min,Low (1-2),4,15+ days,1
+0-3 months,Free,1,30+ min,Low (1-2),2,15+ days,1
+6-12 months,Free,6,<5 min,Medium (3-4),4,Today,0
+6-12 months,Basic,79,15-30 min,Low (1-2),2,1-3 days,1
+0-3 months,Enterprise,2,30+ min,High (5-7),1,Today,1
+6-12 months,Basic,2,30+ min,High (5-7),5,1-3 days,0
+0-3 months,Free,26,30+ min,High (5-7),2,15+ days,1
+6-12 months,Basic,39,15-30 min,Low (1-2),5,1-3 days,0
+0-3 months,Basic,32,30+ min,High (5-7),4,Today,0
+6-12 months,Pro,91,15-30 min,Medium (3-4),1,1-3 days,0
+3-6 months,Free,0,<5 min,Medium (3-4),5,15+ days,1
+12+ months,Pro,7,5-15 min,Low (1-2),2,4-7 days,1
+0-3 months,Basic,100,15-30 min,Low (1-2),5,1-3 days,0
+3-6 months,Enterprise,31,5-15 min,Medium (3-4),2,Today,0
+0-3 months,Free,47,15-30 min,Medium (3-4),5,15+ days,1
+12+ months,Basic,100,15-30 min,Low (1-2),1,15+ days,1
+12+ months,Enterprise,3,<5 min,Medium (3-4),4,1-3 days,0
+3-6 months,Free,93,15-30 min,Low (1-2),4,Today,0
+6-12 months,Enterprise,69,15-30 min,Medium (3-4),5,Today,0
+12+ months,Pro,18,5-15 min,Medium (3-4),5,Today,0
+6-12 months,Free,31,<5 min,High (5-7),5,4-7 days,0
+6-12 months,Free,8,<5 min,High (5-7),5,15+ days,1
+0-3 months,Pro,11,5-15 min,Medium (3-4),2,4-7 days,0
+0-3 months,Free,10,30+ min,Medium (3-4),3,15+ days,1
+12+ months,Basic,45,5-15 min,Medium (3-4),3,1-3 days,0
+12+ months,Free,15,15-30 min,High (5-7),3,8-14 days,0
+6-12 months,Basic,0,5-15 min,Medium (3-4),3,8-14 days,0
+3-6 months,Free,62,5-15 min,Low (1-2),4,Today,0
+3-6 months,Pro,20,30+ min,Low (1-2),2,1-3 days,0
+6-12 months,Enterprise,29,15-30 min,Medium (3-4),4,4-7 days,0
+12+ months,Enterprise,12,<5 min,Medium (3-4),2,Today,0
+12+ months,Pro,33,5-15 min,High (5-7),3,1-3 days,0
+12+ months,Free,3,<5 min,Low (1-2),4,4-7 days,1
+6-12 months,Pro,27,5-15 min,Medium (3-4),4,15+ days,0
+0-3 months,Free,94,15-30 min,High (5-7),4,4-7 days,0
+0-3 months,Free,58,<5 min,High (5-7),4,15+ days,0
+12+ months,Free,26,5-15 min,Medium (3-4),2,1-3 days,0
+6-12 months,Basic,68,5-15 min,Medium (3-4),4,8-14 days,0
+0-3 months,Pro,24,30+ min,Medium (3-4),1,4-7 days,1
+0-3 months,Pro,2,30+ min,High (5-7),3,15+ days,1
+6-12 months,Basic,96,<5 min,Low (1-2),3,1-3 days,0
+0-3 months,Free,67,15-30 min,High (5-7),1,4-7 days,1
+0-3 months,Enterprise,24,5-15 min,Medium (3-4),3,4-7 days,0
+6-12 months,Basic,19,5-15 min,Medium (3-4),5,1-3 days,0
+6-12 months,Basic,33,15-30 min,Low (1-2),5,Today,0
+6-12 months,Free,25,30+ min,Medium (3-4),3,Today,1
+0-3 months,Pro,4,30+ min,Medium (3-4),1,Today,1
+6-12 months,Pro,98,15-30 min,Low (1-2),2,15+ days,0
+0-3 months,Free,60,5-15 min,Medium (3-4),3,Today,0
+3-6 months,Free,91,15-30 min,High (5-7),5,Today,0
+6-12 months,Pro,92,5-15 min,Medium (3-4),2,8-14 days,0
+6-12 months,Pro,8,15-30 min,High (5-7),4,1-3 days,0
+12+ months,Free,49,5-15 min,Low (1-2),2,4-7 days,1
+6-12 months,Enterprise,5,15-30 min,Medium (3-4),5,Today,0
+6-12 months,Free,82,5-15 min,Low (1-2),3,15+ days,0
+0-3 months,Basic,59,<5 min,Medium (3-4),4,15+ days,0
+3-6 months,Enterprise,43,30+ min,High (5-7),3,15+ days,0
+3-6 months,Basic,10,<5 min,Medium (3-4),4,1-3 days,1
+0-3 months,Basic,65,15-30 min,Low (1-2),2,8-14 days,1
+12+ months,Basic,46,5-15 min,Medium (3-4),2,Today,0
+3-6 months,Free,72,<5 min,Medium (3-4),5,Today,0
+12+ months,Enterprise,84,<5 min,Medium (3-4),5,Today,0
+6-12 months,Basic,87,<5 min,High (5-7),5,4-7 days,0
+12+ months,Pro,97,30+ min,High (5-7),4,4-7 days,0
+6-12 months,Free,85,5-15 min,Medium (3-4),5,4-7 days,0
+6-12 months,Free,2,30+ min,Medium (3-4),1,Today,0
+3-6 months,Free,75,15-30 min,Low (1-2),3,1-3 days,1
+0-3 months,Pro,91,5-15 min,Low (1-2),3,8-14 days,0
+6-12 months,Basic,29,15-30 min,Medium (3-4),4,1-3 days,0
+3-6 months,Pro,89,15-30 min,Medium (3-4),3,8-14 days,0
+0-3 months,Basic,20,15-30 min,Medium (3-4),2,Today,1
+6-12 months,Enterprise,27,5-15 min,Medium (3-4),4,15+ days,0
+0-3 months,Free,89,5-15 min,Low (1-2),5,4-7 days,0
+12+ months,Pro,61,30+ min,Medium (3-4),3,Today,0
+12+ months,Pro,32,30+ min,Low (1-2),2,Today,1
+12+ months,Pro,84,30+ min,Low (1-2),2,4-7 days,0
+3-6 months,Pro,34,5-15 min,High (5-7),2,15+ days,1
+0-3 months,Pro,51,15-30 min,Low (1-2),3,1-3 days,0
+12+ months,Basic,33,5-15 min,Medium (3-4),4,1-3 days,0
+3-6 months,Free,40,5-15 min,Low (1-2),4,15+ days,1
+12+ months,Free,50,5-15 min,High (5-7),4,8-14 days,0
+12+ months,Enterprise,46,15-30 min,Medium (3-4),3,1-3 days,0
+12+ months,Basic,81,<5 min,Low (1-2),5,4-7 days,0
+3-6 months,Pro,57,5-15 min,Medium (3-4),2,Today,0
+3-6 months,Basic,74,30+ min,High (5-7),3,4-7 days,0
+12+ months,Free,56,5-15 min,High (5-7),5,1-3 days,0
+3-6 months,Free,22,<5 min,Low (1-2),2,15+ days,1
+0-3 months,Pro,47,<5 min,High (5-7),2,4-7 days,0
+6-12 months,Basic,21,30+ min,High (5-7),5,4-7 days,0
+12+ months,Free,16,15-30 min,High (5-7),3,4-7 days,1
+6-12 months,Basic,68,5-15 min,Medium (3-4),4,15+ days,0
+6-12 months,Free,10,30+ min,Medium (3-4),1,15+ days,1
+0-3 months,Basic,93,30+ min,Medium (3-4),4,4-7 days,0
+6-12 months,Free,14,5-15 min,High (5-7),3,8-14 days,0
+12+ months,Pro,90,15-30 min,Medium (3-4),1,4-7 days,0
+0-3 months,Free,34,15-30 min,Medium (3-4),4,4-7 days,0
+6-12 months,Basic,32,15-30 min,Medium (3-4),2,Today,0
+12+ months,Free,83,<5 min,High (5-7),3,4-7 days,0
+6-12 months,Free,15,30+ min,High (5-7),1,Today,0
+6-12 months,Basic,33,15-30 min,Low (1-2),2,15+ days,1
+6-12 months,Basic,65,5-15 min,High (5-7),3,1-3 days,1
+3-6 months,Basic,98,5-15 min,Medium (3-4),1,15+ days,1
+3-6 months,Free,39,<5 min,High (5-7),5,4-7 days,0
+12+ months,Pro,27,<5 min,Medium (3-4),1,4-7 days,1
+12+ months,Pro,46,15-30 min,Medium (3-4),3,4-7 days,0
+12+ months,Pro,38,<5 min,High (5-7),2,Today,1
+12+ months,Free,69,5-15 min,Low (1-2),3,1-3 days,0
+6-12 months,Basic,72,15-30 min,High (5-7),5,Today,0
+6-12 months,Free,19,<5 min,Medium (3-4),2,4-7 days,1
+12+ months,Free,0,30+ min,Medium (3-4),5,1-3 days,1
+6-12 months,Enterprise,71,5-15 min,Medium (3-4),2,8-14 days,0
+6-12 months,Free,86,5-15 min,Medium (3-4),4,Today,0
+12+ months,Basic,62,5-15 min,Medium (3-4),4,Today,0
+12+ months,Basic,66,5-15 min,Low (1-2),5,1-3 days,0
+3-6 months,Pro,3,<5 min,Low (1-2),4,15+ days,0
+3-6 months,Basic,57,15-30 min,Low (1-2),4,8-14 days,0
+0-3 months,Free,24,30+ min,High (5-7),2,1-3 days,1
+6-12 months,Free,46,5-15 min,High (5-7),2,4-7 days,1
+0-3 months,Basic,37,15-30 min,Medium (3-4),5,Today,0
+3-6 months,Free,14,15-30 min,High (5-7),3,15+ days,1
+6-12 months,Basic,62,30+ min,Medium (3-4),3,8-14 days,0
+3-6 months,Free,20,5-15 min,Medium (3-4),4,1-3 days,0
+6-12 months,Free,98,5-15 min,High (5-7),3,4-7 days,0
+0-3 months,Basic,56,5-15 min,High (5-7),5,Today,0
+0-3 months,Free,52,15-30 min,Medium (3-4),4,15+ days,1
+12+ months,Basic,45,30+ min,High (5-7),4,Today,0
+3-6 months,Pro,13,<5 min,Low (1-2),5,4-7 days,0
+0-3 months,Pro,99,5-15 min,High (5-7),1,Today,0
+6-12 months,Free,75,30+ min,Low (1-2),3,8-14 days,1
+12+ months,Free,16,30+ min,Medium (3-4),3,8-14 days,1
+0-3 months,Free,38,30+ min,Medium (3-4),2,8-14 days,1
+6-12 months,Basic,8,15-30 min,Medium (3-4),4,4-7 days,0
+0-3 months,Pro,98,5-15 min,Low (1-2),5,15+ days,0
+0-3 months,Free,76,15-30 min,High (5-7),3,Today,0
+6-12 months,Enterprise,78,15-30 min,Low (1-2),3,1-3 days,0
+6-12 months,Free,81,<5 min,Medium (3-4),5,Today,0
+6-12 months,Basic,96,15-30 min,Low (1-2),3,15+ days,1
+6-12 months,Pro,5,15-30 min,Medium (3-4),3,1-3 days,0
+12+ months,Pro,90,<5 min,Medium (3-4),3,8-14 days,0
+6-12 months,Pro,22,15-30 min,Medium (3-4),5,8-14 days,0
+3-6 months,Pro,58,15-30 min,Low (1-2),4,Today,0
+12+ months,Free,90,30+ min,Low (1-2),4,Today,0
+3-6 months,Pro,97,<5 min,Medium (3-4),5,1-3 days,0
+3-6 months,Free,45,5-15 min,High (5-7),3,1-3 days,0
+0-3 months,Pro,37,15-30 min,High (5-7),3,Today,0
+0-3 months,Basic,13,5-15 min,Low (1-2),5,Today,0
+12+ months,Pro,99,15-30 min,Medium (3-4),3,15+ days,1
+12+ months,Basic,71,15-30 min,Low (1-2),4,15+ days,0
+6-12 months,Basic,61,<5 min,Low (1-2),5,1-3 days,0
+3-6 months,Basic,34,15-30 min,Medium (3-4),4,1-3 days,0
+0-3 months,Pro,18,15-30 min,Medium (3-4),4,Today,0
+0-3 months,Free,29,5-15 min,Low (1-2),5,8-14 days,0
+3-6 months,Free,77,30+ min,Low (1-2),5,15+ days,1
+6-12 months,Free,83,30+ min,Low (1-2),3,Today,0
+6-12 months,Free,24,15-30 min,High (5-7),1,Today,0
+6-12 months,Pro,39,15-30 min,High (5-7),3,8-14 days,0
+3-6 months,Free,87,5-15 min,Low (1-2),4,4-7 days,1
+12+ months,Enterprise,13,30+ min,Low (1-2),3,Today,0
+6-12 months,Free,25,15-30 min,High (5-7),4,4-7 days,0
+6-12 months,Free,86,15-30 min,High (5-7),3,1-3 days,0
+6-12 months,Pro,21,30+ min,Medium (3-4),4,1-3 days,0
+3-6 months,Pro,47,5-15 min,Low (1-2),2,8-14 days,0
+0-3 months,Basic,82,30+ min,Low (1-2),4,15+ days,0
+3-6 months,Basic,50,<5 min,Medium (3-4),4,1-3 days,0
+12+ months,Pro,2,5-15 min,Medium (3-4),2,15+ days,1
+0-3 months,Free,41,5-15 min,Low (1-2),3,1-3 days,0
+0-3 months,Enterprise,18,30+ min,Medium (3-4),4,8-14 days,0
+0-3 months,Enterprise,72,30+ min,Low (1-2),3,4-7 days,0
+0-3 months,Pro,27,15-30 min,High (5-7),2,15+ days,1
+12+ months,Free,83,15-30 min,Medium (3-4),5,15+ days,0
+6-12 months,Pro,44,15-30 min,Low (1-2),4,Today,0
+3-6 months,Free,70,30+ min,Medium (3-4),5,15+ days,0
+0-3 months,Free,77,5-15 min,Medium (3-4),3,15+ days,1
+3-6 months,Free,62,5-15 min,High (5-7),3,8-14 days,0
+3-6 months,Basic,72,<5 min,Medium (3-4),5,Today,0
+0-3 months,Pro,18,15-30 min,Low (1-2),4,15+ days,1
+3-6 months,Pro,46,15-30 min,High (5-7),4,15+ days,0
+3-6 months,Pro,13,5-15 min,Low (1-2),3,1-3 days,0
+6-12 months,Basic,37,<5 min,High (5-7),3,15+ days,1
+6-12 months,Free,52,30+ min,Medium (3-4),2,Today,0
+0-3 months,Basic,60,<5 min,Medium (3-4),2,Today,0
+3-6 months,Enterprise,35,15-30 min,Low (1-2),1,4-7 days,0
+6-12 months,Free,39,30+ min,Medium (3-4),1,4-7 days,1
+6-12 months,Pro,80,5-15 min,High (5-7),5,4-7 days,0
+12+ months,Basic,29,5-15 min,High (5-7),2,Today,0
+6-12 months,Basic,8,15-30 min,Low (1-2),4,15+ days,0
+0-3 months,Pro,63,30+ min,Low (1-2),5,Today,0
+0-3 months,Basic,32,15-30 min,High (5-7),4,Today,0
+6-12 months,Pro,51,30+ min,High (5-7),2,Today,0
+0-3 months,Enterprise,88,<5 min,Low (1-2),4,4-7 days,0
+6-12 months,Basic,13,15-30 min,Medium (3-4),4,15+ days,0
+12+ months,Free,74,15-30 min,Medium (3-4),4,8-14 days,0
+6-12 months,Basic,52,30+ min,High (5-7),4,15+ days,1
+3-6 months,Enterprise,98,<5 min,Low (1-2),5,Today,0
+6-12 months,Free,58,30+ min,Low (1-2),4,4-7 days,0
+3-6 months,Basic,77,15-30 min,High (5-7),3,4-7 days,0
+6-12 months,Basic,93,5-15 min,Low (1-2),4,4-7 days,0
+12+ months,Pro,40,<5 min,Medium (3-4),1,Today,0
+3-6 months,Free,67,30+ min,Medium (3-4),5,8-14 days,0
+12+ months,Pro,67,<5 min,Medium (3-4),2,4-7 days,0
+12+ months,Enterprise,91,5-15 min,Medium (3-4),3,8-14 days,0
+0-3 months,Free,7,5-15 min,Medium (3-4),5,4-7 days,1
+0-3 months,Free,1,30+ min,Low (1-2),4,Today,0
+0-3 months,Enterprise,85,15-30 min,Medium (3-4),3,4-7 days,0
+0-3 months,Free,40,15-30 min,High (5-7),3,Today,0
+0-3 months,Pro,54,5-15 min,High (5-7),5,15+ days,0
+6-12 months,Basic,15,15-30 min,Low (1-2),3,4-7 days,0
+0-3 months,Free,92,15-30 min,Low (1-2),5,Today,0
+3-6 months,Pro,61,30+ min,Low (1-2),1,15+ days,1
+12+ months,Basic,47,30+ min,Medium (3-4),4,4-7 days,0
+0-3 months,Basic,29,<5 min,Medium (3-4),5,Today,1
+12+ months,Basic,11,15-30 min,Medium (3-4),2,4-7 days,1
+3-6 months,Basic,34,<5 min,Low (1-2),3,1-3 days,1
+0-3 months,Free,10,15-30 min,Low (1-2),2,15+ days,1
+6-12 months,Basic,63,5-15 min,Medium (3-4),4,15+ days,0
+6-12 months,Enterprise,49,5-15 min,Medium (3-4),4,15+ days,0
+12+ months,Free,84,5-15 min,Low (1-2),4,4-7 days,1
+6-12 months,Pro,20,15-30 min,Medium (3-4),2,4-7 days,0
+12+ months,Free,68,5-15 min,Low (1-2),2,8-14 days,0
+3-6 months,Pro,47,15-30 min,High (5-7),1,Today,0
+0-3 months,Free,19,5-15 min,High (5-7),3,4-7 days,1
+12+ months,Enterprise,100,<5 min,Low (1-2),4,4-7 days,0
+12+ months,Basic,66,15-30 min,Low (1-2),5,Today,0
+12+ months,Free,43,5-15 min,Medium (3-4),4,1-3 days,0
+3-6 months,Free,32,5-15 min,Low (1-2),3,15+ days,1
+3-6 months,Free,72,15-30 min,Medium (3-4),5,15+ days,0
+12+ months,Basic,60,5-15 min,High (5-7),4,Today,0
+3-6 months,Free,8,<5 min,Medium (3-4),5,Today,0
+12+ months,Pro,67,5-15 min,High (5-7),4,1-3 days,0
+12+ months,Basic,34,30+ min,Medium (3-4),3,15+ days,1
+3-6 months,Free,80,15-30 min,Low (1-2),1,Today,0
+12+ months,Basic,97,15-30 min,High (5-7),4,8-14 days,0
+12+ months,Pro,87,15-30 min,Medium (3-4),2,Today,0
+0-3 months,Free,95,<5 min,Medium (3-4),3,4-7 days,0
+12+ months,Free,64,5-15 min,Low (1-2),4,1-3 days,0
+6-12 months,Free,7,15-30 min,Low (1-2),4,8-14 days,1
+12+ months,Pro,44,<5 min,High (5-7),4,Today,0
+3-6 months,Pro,86,5-15 min,Low (1-2),2,4-7 days,0
+12+ months,Basic,46,5-15 min,High (5-7),3,Today,0
+3-6 months,Pro,39,5-15 min,High (5-7),4,8-14 days,0
+0-3 months,Pro,75,30+ min,High (5-7),5,15+ days,0
+12+ months,Basic,53,<5 min,Medium (3-4),4,Today,0
+0-3 months,Pro,75,15-30 min,Medium (3-4),5,15+ days,0
+3-6 months,Free,45,<5 min,High (5-7),4,4-7 days,0
+12+ months,Free,46,30+ min,Low (1-2),4,Today,0
+12+ months,Free,14,<5 min,Medium (3-4),2,1-3 days,1
+6-12 months,Free,18,5-15 min,Medium (3-4),4,Today,0
+6-12 months,Basic,25,15-30 min,Medium (3-4),4,8-14 days,0
+3-6 months,Enterprise,51,15-30 min,Medium (3-4),4,8-14 days,0
+3-6 months,Free,92,5-15 min,Medium (3-4),3,Today,0
+3-6 months,Free,21,5-15 min,Medium (3-4),4,4-7 days,1
+6-12 months,Basic,20,5-15 min,High (5-7),3,15+ days,1
+12+ months,Enterprise,50,5-15 min,Low (1-2),4,15+ days,0
+12+ months,Free,37,5-15 min,High (5-7),2,4-7 days,0
+12+ months,Basic,19,5-15 min,Medium (3-4),5,15+ days,0
+0-3 months,Free,28,5-15 min,High (5-7),2,4-7 days,0
+3-6 months,Free,50,5-15 min,Medium (3-4),1,1-3 days,1
+0-3 months,Enterprise,3,15-30 min,High (5-7),3,15+ days,1
+6-12 months,Enterprise,54,30+ min,Low (1-2),4,4-7 days,0
+3-6 months,Free,70,15-30 min,High (5-7),3,4-7 days,0
+12+ months,Enterprise,91,<5 min,Low (1-2),3,4-7 days,0
+3-6 months,Basic,27,<5 min,High (5-7),4,15+ days,0
+0-3 months,Pro,3,30+ min,High (5-7),3,15+ days,0
+0-3 months,Basic,21,5-15 min,Low (1-2),5,1-3 days,0
+12+ months,Basic,75,<5 min,Low (1-2),5,1-3 days,0
+6-12 months,Basic,44,15-30 min,High (5-7),4,4-7 days,0
+0-3 months,Pro,66,15-30 min,Low (1-2),3,4-7 days,0
+0-3 months,Free,85,15-30 min,High (5-7),4,Today,0
+6-12 months,Free,65,5-15 min,Low (1-2),1,8-14 days,1
+0-3 months,Free,87,<5 min,Low (1-2),3,4-7 days,1
+12+ months,Pro,33,30+ min,High (5-7),3,1-3 days,0
+6-12 months,Free,90,5-15 min,Medium (3-4),5,Today,0
+0-3 months,Pro,54,15-30 min,High (5-7),1,Today,0
+0-3 months,Enterprise,0,15-30 min,Medium (3-4),4,15+ days,1
+12+ months,Free,71,15-30 min,Medium (3-4),4,1-3 days,0
+3-6 months,Pro,86,5-15 min,Medium (3-4),3,Today,0
+3-6 months,Basic,37,5-15 min,Medium (3-4),1,4-7 days,1
+12+ months,Pro,5,15-30 min,Medium (3-4),5,1-3 days,0
+12+ months,Free,85,30+ min,Medium (3-4),4,Today,0
+12+ months,Pro,24,30+ min,Medium (3-4),4,1-3 days,0
+12+ months,Pro,81,<5 min,Low (1-2),2,4-7 days,0
+3-6 months,Enterprise,16,<5 min,High (5-7),3,4-7 days,0
+0-3 months,Pro,60,30+ min,Low (1-2),3,1-3 days,0
+12+ months,Basic,11,15-30 min,Medium (3-4),1,1-3 days,1
+6-12 months,Basic,5,30+ min,Low (1-2),2,15+ days,1
+3-6 months,Pro,89,5-15 min,Medium (3-4),5,1-3 days,0
+12+ months,Basic,26,15-30 min,High (5-7),2,1-3 days,0
+0-3 months,Free,7,15-30 min,Low (1-2),2,Today,1
+3-6 months,Enterprise,82,15-30 min,Low (1-2),4,4-7 days,1
+0-3 months,Pro,64,5-15 min,Low (1-2),4,8-14 days,0
+3-6 months,Pro,56,<5 min,Medium (3-4),1,Today,0
+0-3 months,Free,92,15-30 min,High (5-7),4,8-14 days,0
+0-3 months,Pro,98,5-15 min,Low (1-2),2,Today,1
+0-3 months,Basic,39,5-15 min,High (5-7),1,1-3 days,1
+6-12 months,Pro,13,30+ min,Medium (3-4),1,8-14 days,0
+6-12 months,Free,34,5-15 min,Medium (3-4),5,1-3 days,0
+6-12 months,Pro,47,30+ min,High (5-7),2,4-7 days,0
+12+ months,Enterprise,83,<5 min,Medium (3-4),1,Today,0
+3-6 months,Free,55,15-30 min,Medium (3-4),3,8-14 days,0
+3-6 months,Enterprise,48,30+ min,Low (1-2),5,Today,0
+12+ months,Basic,12,<5 min,Low (1-2),3,15+ days,1
+0-3 months,Pro,60,<5 min,Low (1-2),3,Today,0
+12+ months,Pro,48,5-15 min,Low (1-2),1,15+ days,0
+0-3 months,Basic,45,<5 min,Medium (3-4),3,1-3 days,1
+12+ months,Pro,61,15-30 min,Medium (3-4),4,8-14 days,0
+0-3 months,Pro,7,30+ min,Medium (3-4),4,1-3 days,0
+12+ months,Basic,42,5-15 min,Low (1-2),3,15+ days,1
+6-12 months,Free,19,5-15 min,Low (1-2),3,Today,1
+12+ months,Pro,96,5-15 min,Medium (3-4),2,Today,0
+0-3 months,Pro,89,15-30 min,High (5-7),3,4-7 days,0
+6-12 months,Pro,38,<5 min,Low (1-2),1,Today,1
+12+ months,Pro,84,15-30 min,High (5-7),4,Today,0
+6-12 months,Basic,48,15-30 min,Medium (3-4),5,15+ days,0
+6-12 months,Pro,63,15-30 min,Medium (3-4),5,15+ days,0
+6-12 months,Free,61,5-15 min,Medium (3-4),5,1-3 days,0
+3-6 months,Basic,53,15-30 min,Low (1-2),4,15+ days,0
+6-12 months,Free,8,<5 min,Low (1-2),4,4-7 days,1
+6-12 months,Free,87,<5 min,Medium (3-4),3,1-3 days,0
+12+ months,Basic,36,30+ min,Medium (3-4),4,8-14 days,0
+0-3 months,Basic,48,15-30 min,High (5-7),3,8-14 days,0
+3-6 months,Pro,40,<5 min,Medium (3-4),3,15+ days,1
+12+ months,Basic,16,5-15 min,Low (1-2),4,1-3 days,0
+12+ months,Basic,87,5-15 min,High (5-7),3,8-14 days,0
+3-6 months,Free,20,5-15 min,Low (1-2),3,Today,0
+6-12 months,Basic,50,5-15 min,Medium (3-4),5,Today,0
+3-6 months,Free,58,<5 min,Medium (3-4),1,Today,0
+0-3 months,Free,38,5-15 min,High (5-7),3,15+ days,0
+3-6 months,Basic,54,15-30 min,High (5-7),5,15+ days,0
+3-6 months,Pro,40,15-30 min,Medium (3-4),4,8-14 days,0
+6-12 months,Basic,38,15-30 min,Medium (3-4),4,4-7 days,1
+0-3 months,Basic,12,<5 min,High (5-7),2,1-3 days,1
+12+ months,Basic,63,30+ min,Low (1-2),3,Today,0
+12+ months,Pro,10,30+ min,Low (1-2),5,1-3 days,0
+6-12 months,Basic,18,30+ min,Low (1-2),4,1-3 days,0
+6-12 months,Basic,10,30+ min,Low (1-2),4,8-14 days,0
+3-6 months,Free,76,30+ min,Medium (3-4),1,4-7 days,0
+12+ months,Free,45,15-30 min,Medium (3-4),1,Today,1
+6-12 months,Basic,44,5-15 min,Medium (3-4),5,Today,0
+0-3 months,Basic,0,15-30 min,Low (1-2),3,Today,0
+12+ months,Basic,39,15-30 min,High (5-7),4,1-3 days,0
+12+ months,Basic,18,15-30 min,Medium (3-4),1,15+ days,1
+12+ months,Basic,75,15-30 min,Medium (3-4),4,4-7 days,0
+6-12 months,Pro,71,<5 min,Medium (3-4),5,15+ days,1
+6-12 months,Pro,71,5-15 min,Medium (3-4),4,4-7 days,0
+3-6 months,Pro,60,30+ min,Low (1-2),2,1-3 days,1
+12+ months,Enterprise,11,15-30 min,Low (1-2),4,Today,0
+12+ months,Free,60,15-30 min,High (5-7),4,15+ days,0
+0-3 months,Free,32,5-15 min,High (5-7),3,8-14 days,0
+0-3 months,Free,44,5-15 min,Medium (3-4),5,Today,0
+3-6 months,Basic,89,30+ min,Low (1-2),4,4-7 days,0
+12+ months,Pro,91,15-30 min,Medium (3-4),5,4-7 days,0
+12+ months,Free,68,15-30 min,High (5-7),4,4-7 days,0
+0-3 months,Enterprise,7,5-15 min,High (5-7),2,15+ days,1
+6-12 months,Free,24,15-30 min,Low (1-2),3,4-7 days,0
+3-6 months,Enterprise,90,5-15 min,Low (1-2),2,4-7 days,1
+12+ months,Basic,45,15-30 min,High (5-7),5,Today,0
+12+ months,Free,86,5-15 min,Medium (3-4),4,Today,0
+12+ months,Basic,29,5-15 min,Low (1-2),4,Today,0
+3-6 months,Free,46,15-30 min,Low (1-2),3,Today,0
+3-6 months,Free,86,30+ min,Medium (3-4),2,8-14 days,1
+3-6 months,Free,48,<5 min,High (5-7),4,8-14 days,0
+0-3 months,Pro,46,30+ min,High (5-7),3,Today,0
+12+ months,Basic,83,5-15 min,Medium (3-4),2,15+ days,1
+12+ months,Free,81,5-15 min,Medium (3-4),4,Today,0
+12+ months,Basic,17,<5 min,Low (1-2),1,1-3 days,1
+12+ months,Pro,65,5-15 min,Medium (3-4),3,Today,0
+6-12 months,Free,67,15-30 min,Medium (3-4),3,1-3 days,0
+12+ months,Basic,93,<5 min,Medium (3-4),2,1-3 days,0
+12+ months,Free,32,5-15 min,Medium (3-4),5,4-7 days,1
+12+ months,Free,35,30+ min,Low (1-2),2,1-3 days,1
+0-3 months,Pro,81,<5 min,Low (1-2),2,15+ days,1
+3-6 months,Free,100,15-30 min,Medium (3-4),2,Today,0
+0-3 months,Basic,18,5-15 min,Low (1-2),4,Today,0
+12+ months,Pro,27,15-30 min,Low (1-2),3,Today,0
+6-12 months,Free,39,5-15 min,High (5-7),4,4-7 days,0
+0-3 months,Basic,83,<5 min,Medium (3-4),1,Today,0
+6-12 months,Free,96,<5 min,Medium (3-4),1,15+ days,1
+6-12 months,Enterprise,75,<5 min,High (5-7),3,4-7 days,0
+3-6 months,Basic,14,<5 min,High (5-7),5,4-7 days,0
+0-3 months,Pro,40,15-30 min,Medium (3-4),5,4-7 days,0
+6-12 months,Basic,38,30+ min,High (5-7),1,Today,0
+6-12 months,Free,1,30+ min,Medium (3-4),4,Today,1
+12+ months,Basic,62,15-30 min,Medium (3-4),5,1-3 days,0
+6-12 months,Enterprise,28,<5 min,Medium (3-4),3,4-7 days,0
+12+ months,Basic,73,5-15 min,Medium (3-4),5,Today,0
+6-12 months,Pro,65,5-15 min,Medium (3-4),2,Today,0
+6-12 months,Pro,50,5-15 min,Medium (3-4),5,15+ days,0
+12+ months,Free,74,15-30 min,Low (1-2),4,Today,0
+3-6 months,Free,76,15-30 min,Medium (3-4),5,15+ days,0
+0-3 months,Basic,9,5-15 min,Low (1-2),4,8-14 days,0
+0-3 months,Basic,13,5-15 min,Medium (3-4),3,1-3 days,0
+12+ months,Pro,81,30+ min,Medium (3-4),5,Today,0
+6-12 months,Enterprise,50,15-30 min,High (5-7),3,Today,0
+6-12 months,Basic,72,5-15 min,High (5-7),3,8-14 days,0
+0-3 months,Free,38,30+ min,High (5-7),4,4-7 days,0
+0-3 months,Pro,27,30+ min,Medium (3-4),4,8-14 days,0
+0-3 months,Free,2,5-15 min,High (5-7),5,15+ days,1
+3-6 months,Pro,83,5-15 min,Medium (3-4),2,8-14 days,0
+6-12 months,Basic,69,15-30 min,Low (1-2),4,Today,0
+3-6 months,Pro,26,30+ min,Low (1-2),4,Today,0
+3-6 months,Free,1,30+ min,Low (1-2),1,15+ days,1
+12+ months,Basic,92,<5 min,Medium (3-4),3,Today,0
+3-6 months,Basic,37,5-15 min,Medium (3-4),3,Today,0
+6-12 months,Basic,2,15-30 min,High (5-7),3,8-14 days,0
+12+ months,Free,15,15-30 min,Low (1-2),5,1-3 days,1
+3-6 months,Pro,93,<5 min,Low (1-2),4,15+ days,0
+6-12 months,Pro,39,30+ min,High (5-7),4,8-14 days,0
+12+ months,Free,1,15-30 min,Low (1-2),5,Today,0
+12+ months,Free,80,30+ min,Medium (3-4),3,15+ days,1
+0-3 months,Free,40,30+ min,Medium (3-4),5,1-3 days,0
+12+ months,Basic,11,15-30 min,Medium (3-4),3,1-3 days,0
+3-6 months,Basic,34,5-15 min,Low (1-2),5,1-3 days,0
+3-6 months,Basic,64,15-30 min,Low (1-2),2,Today,0
+3-6 months,Free,54,<5 min,Low (1-2),5,4-7 days,0
+12+ months,Basic,44,15-30 min,Medium (3-4),2,Today,0
+3-6 months,Basic,78,<5 min,Medium (3-4),3,1-3 days,0
+3-6 months,Basic,89,15-30 min,Low (1-2),4,1-3 days,0
+6-12 months,Enterprise,100,5-15 min,Medium (3-4),3,8-14 days,0
+0-3 months,Free,84,<5 min,High (5-7),4,15+ days,0
+0-3 months,Pro,61,<5 min,Low (1-2),3,Today,0
+0-3 months,Basic,48,<5 min,Medium (3-4),4,1-3 days,0
+0-3 months,Basic,94,15-30 min,Medium (3-4),2,1-3 days,0
+0-3 months,Pro,24,15-30 min,Low (1-2),1,Today,0
+0-3 months,Pro,22,15-30 min,Medium (3-4),3,8-14 days,0
+6-12 months,Enterprise,23,<5 min,Medium (3-4),3,8-14 days,0
+0-3 months,Free,37,<5 min,High (5-7),2,Today,1
+3-6 months,Free,27,<5 min,High (5-7),3,1-3 days,1
+12+ months,Pro,20,<5 min,Medium (3-4),3,Today,0
+3-6 months,Basic,53,30+ min,High (5-7),1,4-7 days,0
+6-12 months,Free,17,5-15 min,Medium (3-4),4,Today,0
+0-3 months,Free,35,5-15 min,Medium (3-4),5,15+ days,1
+0-3 months,Free,98,<5 min,Medium (3-4),2,8-14 days,0
+0-3 months,Pro,44,5-15 min,Low (1-2),4,1-3 days,0
+0-3 months,Free,72,15-30 min,High (5-7),4,4-7 days,1
+3-6 months,Free,52,15-30 min,Medium (3-4),3,15+ days,1
+0-3 months,Free,29,5-15 min,Medium (3-4),4,4-7 days,1
+0-3 months,Basic,59,<5 min,High (5-7),3,Today,0
+0-3 months,Free,97,5-15 min,Low (1-2),4,1-3 days,0
+3-6 months,Basic,31,5-15 min,Medium (3-4),1,15+ days,1
+0-3 months,Free,66,5-15 min,Low (1-2),4,4-7 days,0
+3-6 months,Pro,66,30+ min,High (5-7),4,8-14 days,0
+6-12 months,Free,27,15-30 min,High (5-7),1,15+ days,1
+6-12 months,Basic,43,15-30 min,Medium (3-4),3,15+ days,0
+0-3 months,Pro,78,5-15 min,Medium (3-4),5,15+ days,0
+12+ months,Pro,40,5-15 min,Medium (3-4),3,Today,0
+6-12 months,Basic,62,15-30 min,High (5-7),4,4-7 days,0
+0-3 months,Free,22,15-30 min,Medium (3-4),5,8-14 days,0
+12+ months,Free,74,15-30 min,Medium (3-4),4,8-14 days,0
+12+ months,Pro,47,<5 min,High (5-7),4,4-7 days,0
+0-3 months,Enterprise,31,15-30 min,Low (1-2),4,Today,0
+3-6 months,Pro,56,5-15 min,Low (1-2),5,8-14 days,0
+12+ months,Basic,99,30+ min,Medium (3-4),3,8-14 days,0
+6-12 months,Pro,32,15-30 min,High (5-7),3,Today,0
+0-3 months,Basic,23,15-30 min,Medium (3-4),3,4-7 days,0
+0-3 months,Free,38,<5 min,Low (1-2),5,Today,0
+3-6 months,Basic,33,15-30 min,Medium (3-4),4,1-3 days,0
+3-6 months,Enterprise,55,<5 min,Medium (3-4),1,Today,0
+6-12 months,Free,27,5-15 min,Low (1-2),5,1-3 days,1
+3-6 months,Pro,36,<5 min,Medium (3-4),3,4-7 days,0
+3-6 months,Free,6,15-30 min,High (5-7),1,4-7 days,1
+6-12 months,Basic,67,5-15 min,Medium (3-4),4,8-14 days,0
+0-3 months,Free,36,5-15 min,Medium (3-4),3,15+ days,1
+3-6 months,Basic,55,30+ min,Medium (3-4),5,Today,0
+6-12 months,Pro,64,5-15 min,Low (1-2),2,Today,0
+12+ months,Free,64,15-30 min,High (5-7),5,15+ days,1
+6-12 months,Pro,46,5-15 min,Medium (3-4),4,Today,0
+6-12 months,Pro,19,<5 min,Medium (3-4),1,15+ days,1
+0-3 months,Enterprise,18,15-30 min,Medium (3-4),5,15+ days,0
+3-6 months,Free,28,<5 min,Medium (3-4),4,4-7 days,1
+6-12 months,Basic,73,5-15 min,Medium (3-4),3,15+ days,1
+0-3 months,Free,59,15-30 min,Low (1-2),3,Today,0
+3-6 months,Enterprise,17,15-30 min,High (5-7),5,1-3 days,0
+3-6 months,Enterprise,91,15-30 min,High (5-7),3,4-7 days,0
+0-3 months,Basic,34,5-15 min,Medium (3-4),2,1-3 days,1
+3-6 months,Pro,42,<5 min,High (5-7),2,15+ days,0
+0-3 months,Basic,94,15-30 min,Low (1-2),3,Today,0
+3-6 months,Basic,90,15-30 min,Medium (3-4),4,4-7 days,1
+0-3 months,Free,10,30+ min,Medium (3-4),3,4-7 days,0
+12+ months,Pro,48,30+ min,Medium (3-4),2,8-14 days,0
+6-12 months,Free,37,30+ min,Medium (3-4),2,1-3 days,1
+6-12 months,Pro,63,5-15 min,Medium (3-4),3,1-3 days,0
+12+ months,Pro,68,5-15 min,Low (1-2),5,15+ days,0
+3-6 months,Pro,7,15-30 min,Medium (3-4),3,Today,0
+0-3 months,Free,33,5-15 min,Low (1-2),5,15+ days,1
+6-12 months,Free,47,<5 min,High (5-7),3,4-7 days,1
+6-12 months,Free,55,30+ min,Low (1-2),2,8-14 days,1
+6-12 months,Basic,75,30+ min,Low (1-2),5,8-14 days,0
+3-6 months,Free,64,5-15 min,Medium (3-4),3,Today,0
+0-3 months,Enterprise,30,<5 min,Medium (3-4),4,4-7 days,0
+3-6 months,Basic,3,5-15 min,High (5-7),5,15+ days,1
+3-6 months,Free,49,30+ min,Medium (3-4),1,1-3 days,1
+6-12 months,Basic,68,30+ min,Medium (3-4),1,15+ days,0
+6-12 months,Basic,29,5-15 min,High (5-7),4,4-7 days,0
+3-6 months,Basic,87,<5 min,Medium (3-4),3,Today,0
+12+ months,Basic,58,30+ min,Low (1-2),2,1-3 days,1
+6-12 months,Enterprise,66,5-15 min,Medium (3-4),1,15+ days,1
+0-3 months,Basic,74,15-30 min,High (5-7),1,1-3 days,0
+0-3 months,Enterprise,44,30+ min,Medium (3-4),4,15+ days,0
+0-3 months,Pro,3,<5 min,Low (1-2),2,15+ days,1
+0-3 months,Free,25,15-30 min,Low (1-2),3,1-3 days,1
+0-3 months,Enterprise,26,<5 min,Low (1-2),4,Today,0
+0-3 months,Free,45,5-15 min,Medium (3-4),3,8-14 days,0
+3-6 months,Pro,63,30+ min,Medium (3-4),1,1-3 days,0
+0-3 months,Basic,90,5-15 min,Low (1-2),4,8-14 days,0
+12+ months,Pro,50,30+ min,High (5-7),1,1-3 days,0
+0-3 months,Pro,49,15-30 min,High (5-7),4,4-7 days,0
+6-12 months,Pro,5,5-15 min,Medium (3-4),5,8-14 days,0
+3-6 months,Pro,58,5-15 min,High (5-7),3,1-3 days,0
+12+ months,Free,14,5-15 min,Low (1-2),4,1-3 days,0
+0-3 months,Free,29,5-15 min,Medium (3-4),3,1-3 days,0
+3-6 months,Basic,41,<5 min,Medium (3-4),3,1-3 days,0
+12+ months,Free,100,5-15 min,High (5-7),5,4-7 days,0
+12+ months,Pro,36,5-15 min,High (5-7),5,15+ days,1
+12+ months,Free,41,15-30 min,Low (1-2),3,1-3 days,0
+3-6 months,Enterprise,100,15-30 min,High (5-7),4,4-7 days,0
+0-3 months,Basic,34,15-30 min,Low (1-2),5,8-14 days,0
+6-12 months,Pro,86,<5 min,High (5-7),5,1-3 days,0
+12+ months,Free,5,5-15 min,High (5-7),4,1-3 days,1
+6-12 months,Pro,67,15-30 min,Low (1-2),3,15+ days,0
+6-12 months,Enterprise,17,5-15 min,High (5-7),3,8-14 days,0
+3-6 months,Basic,72,<5 min,Low (1-2),5,4-7 days,0
+12+ months,Basic,28,30+ min,Medium (3-4),2,4-7 days,1
+0-3 months,Pro,76,15-30 min,Medium (3-4),4,Today,0
+3-6 months,Free,58,15-30 min,Medium (3-4),3,4-7 days,0
+3-6 months,Basic,46,<5 min,High (5-7),3,4-7 days,0
+6-12 months,Basic,16,15-30 min,Medium (3-4),3,4-7 days,0
+0-3 months,Free,95,15-30 min,Medium (3-4),5,1-3 days,0
+0-3 months,Basic,21,15-30 min,High (5-7),1,Today,1
+6-12 months,Free,67,15-30 min,High (5-7),4,Today,0
+3-6 months,Free,68,30+ min,Low (1-2),1,15+ days,1
+6-12 months,Free,36,15-30 min,High (5-7),2,1-3 days,0
+0-3 months,Enterprise,48,<5 min,Low (1-2),3,4-7 days,0
+3-6 months,Basic,12,15-30 min,High (5-7),4,Today,0
+6-12 months,Enterprise,33,15-30 min,Low (1-2),3,Today,0
+0-3 months,Basic,85,15-30 min,Low (1-2),3,8-14 days,0
+3-6 months,Free,52,<5 min,Medium (3-4),1,4-7 days,0
+0-3 months,Basic,86,<5 min,Medium (3-4),3,4-7 days,0
+0-3 months,Basic,50,30+ min,Medium (3-4),5,Today,0
+12+ months,Free,2,15-30 min,Low (1-2),5,8-14 days,1
+3-6 months,Basic,41,30+ min,Medium (3-4),3,Today,0
+12+ months,Free,97,15-30 min,High (5-7),4,Today,0
+3-6 months,Basic,31,15-30 min,Medium (3-4),5,4-7 days,0
+6-12 months,Pro,50,15-30 min,Low (1-2),1,1-3 days,0
+12+ months,Free,84,30+ min,Medium (3-4),5,Today,0
+6-12 months,Free,45,15-30 min,Low (1-2),5,4-7 days,0
+3-6 months,Pro,20,15-30 min,High (5-7),1,8-14 days,0
+3-6 months,Basic,43,<5 min,High (5-7),2,15+ days,1
+3-6 months,Free,10,5-15 min,Medium (3-4),5,1-3 days,0
+12+ months,Enterprise,67,15-30 min,Medium (3-4),4,Today,0
+12+ months,Free,0,5-15 min,High (5-7),1,1-3 days,1
+12+ months,Pro,91,5-15 min,Medium (3-4),3,15+ days,0
+0-3 months,Enterprise,62,5-15 min,High (5-7),3,4-7 days,0
+6-12 months,Free,23,5-15 min,Medium (3-4),4,8-14 days,0
+12+ months,Free,98,5-15 min,High (5-7),4,Today,0
+0-3 months,Free,12,5-15 min,Medium (3-4),5,4-7 days,1
+0-3 months,Free,97,30+ min,Medium (3-4),3,Today,0
+6-12 months,Free,10,15-30 min,High (5-7),4,4-7 days,0
+6-12 months,Pro,99,<5 min,Medium (3-4),4,15+ days,1
+12+ months,Free,50,<5 min,Medium (3-4),3,15+ days,1
+0-3 months,Basic,16,15-30 min,Low (1-2),2,4-7 days,0
+12+ months,Enterprise,98,5-15 min,Medium (3-4),5,4-7 days,0
+0-3 months,Pro,81,30+ min,Medium (3-4),5,15+ days,0
+0-3 months,Basic,85,15-30 min,Low (1-2),3,8-14 days,0
+0-3 months,Free,23,15-30 min,Low (1-2),4,Today,0
+12+ months,Basic,18,5-15 min,Medium (3-4),2,4-7 days,1
+6-12 months,Basic,36,15-30 min,High (5-7),4,Today,0
+6-12 months,Basic,84,5-15 min,Medium (3-4),4,4-7 days,0
+3-6 months,Free,7,30+ min,Low (1-2),4,4-7 days,1
+12+ months,Pro,27,15-30 min,Medium (3-4),5,4-7 days,0
+3-6 months,Basic,4,5-15 min,Low (1-2),4,1-3 days,1
+12+ months,Free,16,5-15 min,Medium (3-4),3,Today,0
+3-6 months,Basic,100,<5 min,Low (1-2),4,4-7 days,0
+3-6 months,Basic,35,15-30 min,Low (1-2),2,15+ days,1
+3-6 months,Pro,18,5-15 min,Low (1-2),3,8-14 days,0
+3-6 months,Pro,63,15-30 min,Medium (3-4),3,1-3 days,0
+6-12 months,Pro,90,5-15 min,Low (1-2),3,15+ days,1
+6-12 months,Free,97,15-30 min,Medium (3-4),4,15+ days,0
+0-3 months,Basic,10,30+ min,Medium (3-4),3,Today,0
+12+ months,Basic,53,15-30 min,Medium (3-4),4,Today,0
+3-6 months,Free,44,15-30 min,Medium (3-4),4,8-14 days,0
+6-12 months,Free,46,<5 min,High (5-7),3,15+ days,1
+12+ months,Pro,11,<5 min,Low (1-2),5,15+ days,1
+6-12 months,Free,20,15-30 min,Medium (3-4),2,15+ days,1
+0-3 months,Basic,10,5-15 min,Low (1-2),2,4-7 days,1
+12+ months,Free,91,5-15 min,Low (1-2),4,4-7 days,1
+6-12 months,Free,4,<5 min,Medium (3-4),3,Today,0
+3-6 months,Free,80,5-15 min,Medium (3-4),1,Today,0
+0-3 months,Enterprise,55,<5 min,High (5-7),4,4-7 days,0
+12+ months,Pro,19,30+ min,Medium (3-4),4,4-7 days,0
+6-12 months,Enterprise,40,5-15 min,High (5-7),3,4-7 days,0
+6-12 months,Basic,45,15-30 min,Low (1-2),5,8-14 days,0
+12+ months,Free,11,<5 min,Low (1-2),4,1-3 days,1
+12+ months,Basic,69,15-30 min,Low (1-2),5,4-7 days,0
+0-3 months,Basic,16,5-15 min,Low (1-2),2,Today,0
+3-6 months,Pro,18,30+ min,Medium (3-4),4,1-3 days,1
+0-3 months,Free,25,30+ min,Medium (3-4),5,8-14 days,0
+6-12 months,Basic,47,5-15 min,Low (1-2),4,8-14 days,0
+0-3 months,Free,51,30+ min,High (5-7),4,15+ days,0
+6-12 months,Free,95,30+ min,High (5-7),3,1-3 days,1
+12+ months,Pro,69,30+ min,Low (1-2),1,4-7 days,1
+12+ months,Basic,54,30+ min,Low (1-2),3,1-3 days,0
+3-6 months,Basic,99,5-15 min,Low (1-2),3,1-3 days,0
+12+ months,Basic,74,15-30 min,Low (1-2),5,15+ days,1
+0-3 months,Basic,32,<5 min,Low (1-2),2,8-14 days,1
+12+ months,Pro,61,<5 min,Medium (3-4),5,15+ days,0
+0-3 months,Pro,87,30+ min,Low (1-2),5,Today,0
+3-6 months,Enterprise,22,5-15 min,Medium (3-4),2,15+ days,1
+12+ months,Pro,14,15-30 min,High (5-7),3,Today,0
+0-3 months,Free,26,30+ min,Medium (3-4),5,15+ days,1
+0-3 months,Pro,74,30+ min,High (5-7),5,1-3 days,0
+6-12 months,Basic,63,30+ min,Low (1-2),3,1-3 days,0
+6-12 months,Free,80,5-15 min,Medium (3-4),3,4-7 days,1
+6-12 months,Pro,50,<5 min,Medium (3-4),4,15+ days,0
+6-12 months,Free,52,5-15 min,Low (1-2),4,Today,0
+6-12 months,Enterprise,77,<5 min,Low (1-2),3,1-3 days,0
+3-6 months,Basic,90,<5 min,Medium (3-4),4,15+ days,1
+3-6 months,Basic,81,5-15 min,Medium (3-4),1,1-3 days,0
+0-3 months,Pro,91,15-30 min,Medium (3-4),1,Today,0
+12+ months,Pro,50,15-30 min,Medium (3-4),3,1-3 days,0
+6-12 months,Basic,46,5-15 min,Medium (3-4),3,1-3 days,0
+3-6 months,Basic,3,15-30 min,Low (1-2),3,15+ days,1
+3-6 months,Free,6,5-15 min,Medium (3-4),3,8-14 days,1
+12+ months,Basic,34,<5 min,Low (1-2),3,4-7 days,0
+0-3 months,Free,47,15-30 min,Low (1-2),2,15+ days,1
+6-12 months,Pro,72,15-30 min,High (5-7),3,4-7 days,0
+6-12 months,Basic,71,15-30 min,Medium (3-4),5,Today,0
+6-12 months,Pro,44,<5 min,High (5-7),3,1-3 days,0
+0-3 months,Free,80,30+ min,Medium (3-4),3,1-3 days,0
+12+ months,Free,80,15-30 min,Medium (3-4),4,Today,0
+12+ months,Pro,96,15-30 min,Low (1-2),5,15+ days,1
+6-12 months,Free,95,15-30 min,Low (1-2),2,8-14 days,1
+6-12 months,Free,71,30+ min,Low (1-2),4,1-3 days,0
+12+ months,Free,18,15-30 min,High (5-7),4,4-7 days,0
+6-12 months,Enterprise,62,15-30 min,Medium (3-4),4,8-14 days,0
+0-3 months,Pro,37,30+ min,Medium (3-4),1,15+ days,1
+6-12 months,Basic,66,15-30 min,Medium (3-4),4,15+ days,0
+6-12 months,Free,58,5-15 min,High (5-7),1,4-7 days,1
+3-6 months,Free,68,15-30 min,Low (1-2),4,8-14 days,1
+6-12 months,Pro,12,5-15 min,Low (1-2),4,4-7 days,0
+12+ months,Pro,46,5-15 min,Medium (3-4),2,4-7 days,0
+12+ months,Free,60,15-30 min,High (5-7),5,Today,0
+3-6 months,Free,30,30+ min,High (5-7),1,Today,0
+0-3 months,Free,79,30+ min,Low (1-2),5,4-7 days,1
+12+ months,Pro,95,5-15 min,High (5-7),3,1-3 days,0
+12+ months,Pro,21,15-30 min,High (5-7),2,Today,0
+0-3 months,Free,92,5-15 min,Low (1-2),2,8-14 days,1
+12+ months,Free,85,30+ min,Medium (3-4),5,Today,0
+12+ months,Free,42,30+ min,Medium (3-4),1,4-7 days,1
+6-12 months,Enterprise,66,15-30 min,High (5-7),2,4-7 days,0
+6-12 months,Free,53,30+ min,Low (1-2),3,15+ days,1
+3-6 months,Pro,9,15-30 min,High (5-7),4,4-7 days,0
+0-3 months,Basic,41,15-30 min,Medium (3-4),4,Today,0
+3-6 months,Basic,63,<5 min,High (5-7),2,4-7 days,1
+12+ months,Free,20,5-15 min,Medium (3-4),3,15+ days,1
+0-3 months,Free,79,15-30 min,Medium (3-4),2,15+ days,1
+3-6 months,Basic,75,15-30 min,High (5-7),2,1-3 days,0
+3-6 months,Pro,65,5-15 min,High (5-7),3,1-3 days,0
+6-12 months,Basic,40,30+ min,High (5-7),4,15+ days,0
+12+ months,Basic,23,<5 min,Low (1-2),2,Today,0
+3-6 months,Free,34,15-30 min,Medium (3-4),3,4-7 days,0
+3-6 months,Enterprise,55,15-30 min,Low (1-2),3,1-3 days,0
+6-12 months,Pro,29,15-30 min,Medium (3-4),5,Today,0
+3-6 months,Free,56,15-30 min,Medium (3-4),5,1-3 days,0
+0-3 months,Enterprise,93,5-15 min,Medium (3-4),5,1-3 days,0
+3-6 months,Basic,46,<5 min,Medium (3-4),2,8-14 days,1
+0-3 months,Basic,34,15-30 min,High (5-7),1,15+ days,0
+0-3 months,Pro,18,15-30 min,Low (1-2),3,1-3 days,0
+3-6 months,Pro,7,<5 min,Medium (3-4),3,15+ days,1
+3-6 months,Pro,25,15-30 min,Medium (3-4),4,Today,0
+12+ months,Free,70,5-15 min,Low (1-2),4,4-7 days,0
+3-6 months,Free,29,15-30 min,Low (1-2),5,Today,0
+6-12 months,Enterprise,6,30+ min,High (5-7),5,15+ days,0
+6-12 months,Free,66,<5 min,High (5-7),3,8-14 days,0
+0-3 months,Basic,64,<5 min,High (5-7),4,8-14 days,0
+6-12 months,Basic,35,15-30 min,High (5-7),3,15+ days,1
+0-3 months,Basic,24,15-30 min,Low (1-2),1,4-7 days,0
+12+ months,Basic,36,15-30 min,Medium (3-4),4,15+ days,0
+0-3 months,Enterprise,0,30+ min,Medium (3-4),1,8-14 days,1
+3-6 months,Free,14,30+ min,Medium (3-4),3,15+ days,1
+0-3 months,Free,36,30+ min,Medium (3-4),3,4-7 days,0
+12+ months,Free,12,15-30 min,Medium (3-4),4,Today,1
+6-12 months,Pro,7,5-15 min,Medium (3-4),4,4-7 days,0
+6-12 months,Basic,4,5-15 min,Medium (3-4),3,Today,0
+0-3 months,Free,59,<5 min,Low (1-2),5,4-7 days,1
+6-12 months,Pro,72,15-30 min,Medium (3-4),3,4-7 days,0
+0-3 months,Pro,0,5-15 min,Medium (3-4),3,4-7 days,0
+12+ months,Pro,35,30+ min,Medium (3-4),4,Today,0
+0-3 months,Enterprise,34,15-30 min,Low (1-2),4,Today,0
+0-3 months,Free,65,15-30 min,High (5-7),5,4-7 days,0
+0-3 months,Pro,62,5-15 min,Low (1-2),2,15+ days,1
+3-6 months,Basic,22,<5 min,Medium (3-4),4,1-3 days,0
+6-12 months,Pro,8,<5 min,High (5-7),4,1-3 days,0
+0-3 months,Pro,33,5-15 min,Medium (3-4),5,8-14 days,0
+12+ months,Pro,45,<5 min,Low (1-2),2,4-7 days,1
+3-6 months,Pro,77,15-30 min,Medium (3-4),4,1-3 days,0
+6-12 months,Free,3,30+ min,Medium (3-4),4,1-3 days,1
+3-6 months,Basic,29,30+ min,High (5-7),3,Today,0
+3-6 months,Enterprise,94,15-30 min,High (5-7),3,15+ days,0
+6-12 months,Enterprise,74,5-15 min,Medium (3-4),3,Today,0
+0-3 months,Free,98,30+ min,Medium (3-4),4,1-3 days,1
+0-3 months,Free,71,30+ min,Low (1-2),5,Today,0
+12+ months,Free,2,<5 min,Low (1-2),4,Today,1
+12+ months,Pro,13,15-30 min,Medium (3-4),4,8-14 days,0
+3-6 months,Pro,59,5-15 min,Medium (3-4),4,Today,0
+3-6 months,Free,76,30+ min,Medium (3-4),1,Today,0
+6-12 months,Basic,44,30+ min,Low (1-2),2,4-7 days,1
+3-6 months,Pro,95,<5 min,Low (1-2),3,Today,0
+0-3 months,Pro,33,30+ min,Medium (3-4),3,Today,0
+0-3 months,Basic,44,15-30 min,Low (1-2),2,15+ days,0
+6-12 months,Basic,60,30+ min,High (5-7),4,8-14 days,0
+6-12 months,Basic,82,5-15 min,Low (1-2),3,15+ days,1
+0-3 months,Free,15,30+ min,Medium (3-4),3,15+ days,1
+0-3 months,Basic,65,<5 min,High (5-7),3,8-14 days,0
+0-3 months,Pro,39,5-15 min,Low (1-2),2,Today,0
+6-12 months,Pro,16,<5 min,Medium (3-4),5,8-14 days,0
+0-3 months,Basic,33,30+ min,Low (1-2),5,15+ days,1
+0-3 months,Pro,15,30+ min,Medium (3-4),4,8-14 days,0
+12+ months,Free,59,30+ min,Medium (3-4),2,4-7 days,0
+0-3 months,Basic,65,30+ min,Medium (3-4),4,Today,0
+6-12 months,Free,65,<5 min,Medium (3-4),5,15+ days,1
+0-3 months,Free,89,5-15 min,High (5-7),4,8-14 days,0
+0-3 months,Pro,12,<5 min,Low (1-2),2,15+ days,1
+0-3 months,Enterprise,55,5-15 min,Low (1-2),4,Today,0
+6-12 months,Free,30,5-15 min,High (5-7),5,Today,0
+12+ months,Basic,33,5-15 min,Medium (3-4),4,Today,0
+12+ months,Pro,38,5-15 min,High (5-7),4,8-14 days,0
+3-6 months,Free,66,<5 min,Medium (3-4),3,Today,0
+6-12 months,Basic,7,<5 min,High (5-7),4,Today,0
+0-3 months,Pro,86,<5 min,Medium (3-4),1,15+ days,1
+3-6 months,Basic,77,30+ min,High (5-7),4,Today,0
+12+ months,Free,54,15-30 min,High (5-7),1,15+ days,1
+0-3 months,Basic,26,30+ min,Medium (3-4),3,1-3 days,0
+0-3 months,Pro,92,5-15 min,Low (1-2),3,15+ days,1
+0-3 months,Basic,52,5-15 min,Low (1-2),4,4-7 days,0
+0-3 months,Free,38,15-30 min,Low (1-2),2,15+ days,1
+0-3 months,Pro,64,5-15 min,Low (1-2),4,15+ days,0
+6-12 months,Free,16,5-15 min,Medium (3-4),4,Today,0
+3-6 months,Pro,29,5-15 min,Medium (3-4),2,Today,0
+12+ months,Free,52,<5 min,Medium (3-4),2,1-3 days,1
+12+ months,Enterprise,12,5-15 min,Medium (3-4),2,8-14 days,0
+3-6 months,Basic,20,5-15 min,Medium (3-4),5,15+ days,1
+3-6 months,Free,18,15-30 min,Low (1-2),4,4-7 days,1
+3-6 months,Free,52,<5 min,Low (1-2),3,4-7 days,1
+6-12 months,Free,18,5-15 min,Low (1-2),2,Today,1
+3-6 months,Pro,56,30+ min,Medium (3-4),4,15+ days,1
+6-12 months,Enterprise,24,<5 min,Low (1-2),5,15+ days,0
+3-6 months,Basic,85,5-15 min,Low (1-2),5,1-3 days,0
+6-12 months,Basic,30,30+ min,Medium (3-4),4,4-7 days,0
+3-6 months,Pro,80,<5 min,High (5-7),1,Today,0
+3-6 months,Pro,54,<5 min,Low (1-2),2,4-7 days,0
+12+ months,Basic,22,5-15 min,Medium (3-4),1,4-7 days,1
+12+ months,Basic,31,5-15 min,Medium (3-4),3,Today,0
+0-3 months,Basic,61,15-30 min,High (5-7),2,1-3 days,0
+12+ months,Pro,73,30+ min,High (5-7),3,1-3 days,0
+3-6 months,Free,9,<5 min,Low (1-2),3,4-7 days,1
+12+ months,Basic,99,15-30 min,Low (1-2),5,4-7 days,0
+12+ months,Basic,71,15-30 min,High (5-7),4,Today,0
+3-6 months,Pro,53,<5 min,Medium (3-4),5,8-14 days,0
+0-3 months,Free,51,15-30 min,Medium (3-4),4,8-14 days,0
+3-6 months,Basic,19,5-15 min,Medium (3-4),2,1-3 days,1
+6-12 months,Basic,31,5-15 min,Medium (3-4),4,Today,0
+6-12 months,Basic,13,<5 min,High (5-7),3,8-14 days,0
+3-6 months,Free,49,5-15 min,High (5-7),4,15+ days,0
+0-3 months,Basic,27,5-15 min,High (5-7),3,Today,0
+12+ months,Basic,52,30+ min,Low (1-2),5,1-3 days,0
+12+ months,Basic,23,<5 min,High (5-7),3,Today,0
+6-12 months,Basic,78,5-15 min,Low (1-2),3,4-7 days,0
+0-3 months,Pro,21,5-15 min,Low (1-2),5,Today,0
+3-6 months,Pro,29,15-30 min,High (5-7),1,1-3 days,0
+0-3 months,Free,62,15-30 min,Low (1-2),4,8-14 days,0
+12+ months,Pro,3,15-30 min,Low (1-2),4,4-7 days,1
+0-3 months,Basic,76,15-30 min,Low (1-2),5,1-3 days,0
+6-12 months,Free,58,30+ min,High (5-7),5,1-3 days,1
+3-6 months,Free,86,5-15 min,Medium (3-4),5,4-7 days,0
+6-12 months,Free,7,15-30 min,Medium (3-4),1,Today,1
+6-12 months,Pro,81,30+ min,Low (1-2),5,Today,0
+12+ months,Pro,11,30+ min,High (5-7),4,15+ days,0
+0-3 months,Pro,30,30+ min,High (5-7),4,Today,0
+0-3 months,Basic,77,5-15 min,Medium (3-4),2,8-14 days,1
+0-3 months,Basic,33,<5 min,Medium (3-4),4,15+ days,0
+12+ months,Free,81,5-15 min,Low (1-2),5,1-3 days,0
+12+ months,Free,97,15-30 min,High (5-7),5,1-3 days,0
+6-12 months,Basic,74,5-15 min,Medium (3-4),3,4-7 days,0
+6-12 months,Free,75,5-15 min,High (5-7),1,15+ days,1
+6-12 months,Free,48,30+ min,Medium (3-4),3,15+ days,1
+0-3 months,Basic,78,5-15 min,High (5-7),5,8-14 days,1
+12+ months,Pro,56,30+ min,High (5-7),4,Today,0
+3-6 months,Enterprise,94,5-15 min,Medium (3-4),3,8-14 days,0
+3-6 months,Enterprise,92,5-15 min,High (5-7),1,1-3 days,0
+6-12 months,Basic,25,5-15 min,Medium (3-4),3,4-7 days,0
+0-3 months,Basic,17,15-30 min,Low (1-2),3,Today,0
+0-3 months,Basic,95,<5 min,Medium (3-4),5,Today,0
+6-12 months,Pro,85,<5 min,High (5-7),4,8-14 days,0
+0-3 months,Free,37,30+ min,Medium (3-4),3,4-7 days,1
+6-12 months,Basic,80,<5 min,Low (1-2),4,1-3 days,0
+0-3 months,Pro,86,15-30 min,Medium (3-4),1,1-3 days,0
+3-6 months,Basic,87,15-30 min,Medium (3-4),5,15+ days,0
+3-6 months,Basic,49,5-15 min,Medium (3-4),3,8-14 days,0
+3-6 months,Basic,7,15-30 min,Medium (3-4),3,1-3 days,0
+6-12 months,Free,40,5-15 min,High (5-7),3,Today,0
+3-6 months,Basic,5,15-30 min,Low (1-2),4,1-3 days,1
+6-12 months,Free,68,5-15 min,Medium (3-4),4,15+ days,0
+3-6 months,Free,43,15-30 min,Low (1-2),4,4-7 days,0
+6-12 months,Free,63,<5 min,Low (1-2),3,4-7 days,0
+12+ months,Pro,28,15-30 min,High (5-7),3,4-7 days,0
+6-12 months,Free,27,<5 min,High (5-7),2,1-3 days,1
+0-3 months,Basic,10,5-15 min,Medium (3-4),4,15+ days,0
+0-3 months,Free,64,5-15 min,High (5-7),1,4-7 days,1
+3-6 months,Enterprise,18,<5 min,High (5-7),4,Today,0
+6-12 months,Free,8,30+ min,High (5-7),5,Today,0
+0-3 months,Basic,26,5-15 min,Low (1-2),5,4-7 days,0
+3-6 months,Pro,33,30+ min,High (5-7),3,15+ days,0
+6-12 months,Pro,43,30+ min,Medium (3-4),3,1-3 days,0
+3-6 months,Free,67,15-30 min,Medium (3-4),1,15+ days,1
+12+ months,Pro,99,<5 min,Low (1-2),4,8-14 days,0
+0-3 months,Basic,81,5-15 min,Medium (3-4),5,Today,0
+0-3 months,Basic,14,15-30 min,Low (1-2),2,Today,0
+6-12 months,Free,50,5-15 min,Low (1-2),3,Today,0
+3-6 months,Free,12,<5 min,Medium (3-4),5,8-14 days,0
+6-12 months,Pro,82,15-30 min,High (5-7),5,Today,0
+3-6 months,Basic,48,30+ min,High (5-7),2,1-3 days,0
+0-3 months,Basic,69,15-30 min,Medium (3-4),4,4-7 days,0
+12+ months,Pro,55,<5 min,High (5-7),2,8-14 days,0
+12+ months,Pro,75,15-30 min,High (5-7),2,Today,0
+6-12 months,Free,50,5-15 min,High (5-7),5,1-3 days,0
+3-6 months,Basic,36,5-15 min,Low (1-2),5,4-7 days,1
+6-12 months,Free,16,30+ min,Medium (3-4),4,4-7 days,0
+3-6 months,Pro,57,5-15 min,High (5-7),1,15+ days,0
+0-3 months,Pro,86,5-15 min,Medium (3-4),5,Today,0
+12+ months,Enterprise,89,<5 min,Medium (3-4),3,15+ days,0
+0-3 months,Free,28,30+ min,Medium (3-4),3,8-14 days,0
+12+ months,Free,32,15-30 min,Medium (3-4),4,4-7 days,0
+3-6 months,Free,59,15-30 min,Medium (3-4),1,8-14 days,0

@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Result — AI Churn Predictor</title>
+  <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+  {% include 'sidebar.html' %}
+  <main class="main">
+    <p class="page-title">Prediction Result</p>
+    <p class="page-sub">Based on the customer's usage behaviour.</p>
+
+    <div class="result-grid">
+
+      <!-- Verdict -->
+      <div class="result-main">
+        <div class="result-icon {{ 'stay' if result.churn_pred==0 else 'churn' }}">
+          {{ '✓' if result.churn_pred==0 else '✗' }}
+        </div>
+        <div>
+          <div class="result-label">Customer Likely to</div>
+          <div class="result-verdict {{ 'verdict-stay' if result.churn_pred==0 else 'verdict-churn' }}">
+            {{ result.label }}
+          </div>
+        </div>
+      </div>
+
+      <!-- Churn Probability -->
+      <div class="prob-card">
+        <div class="prob-title">Churn Probability</div>
+        <div class="prob-value">{{ result.churn_pct }}%</div>
+        <div class="prob-bar">
+          <div class="prob-fill"
+               style="width:{{ result.churn_pct }}%;
+                      background:{{ '#16a34a' if result.churn_pct < 40 else '#f59e0b' if result.churn_pct < 65 else '#dc2626' }};">
+          </div>
+        </div>
+      </div>
+
+      <!-- Explanation -->
+      <div class="explanation-card">
+        <h3>Explanation</h3>
+        {% for exp in result.explanations %}
+        <div class="exp-item">
+          <div class="exp-dot"></div>
+          <span>{{ exp }}</span>
+        </div>
+        {% endfor %}
+        {% if not result.explanations %}
+        <div class="exp-item">
+          <div class="exp-dot"></div>
+          <span>Mixed signals — borderline prediction</span>
+        </div>
+        {% endif %}
+      </div>
+
+      <!-- Gauge / Risk -->
+      <div class="gauge-wrap" style="margin-top:16px;">
+          {% set arc_color = '#16a34a' if result.churn_pct < 40 else '#f59e0b' if result.churn_pct < 65 else '#dc2626' %}
+          {% set dash = (result.churn_pct / 100 * 220) | round(1) %}
+          <svg width="180" height="100" viewBox="0 0 180 100">
+            <!-- Background arc -->
+            <path d="M 20 90 A 70 70 0 0 1 160 90"
+                  fill="none" stroke="#e2e8f0"
+                  stroke-width="14" stroke-linecap="round"/>
+            <!-- Filled arc — length driven by churn % -->
+            <path d="M 20 90 A 70 70 0 0 1 160 90"
+                  fill="none" stroke="{{ arc_color }}"
+                  stroke-width="14" stroke-linecap="round"
+                  stroke-dasharray="{{ dash }} 220"
+                  stroke-dashoffset="0"/>
+          </svg>
+          <div class="gauge-label" style="color:{{ arc_color }};">
+            {{ result.churn_pct }}%
+          </div>
+          <div class="gauge-sub">{{ result.risk_level }}</div>
+        </div>
+
+        <!-- Input summary -->
+        <div style="margin-top:16px;border-top:1px solid #e2e8f0;padding-top:14px;">
+          {% for k, v in result.inputs.items() %}
+          <div style="display:flex;justify-content:space-between;font-size:12px;padding:3px 0;color:#64748b;">
+            <span>{{ k }}</span><span style="font-weight:600;color:#1e293b;">{{ v }}</span>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+
+    </div>
+
+    <div style="margin-top:28px;display:flex;gap:16px;">
+      <a href="/predict"   class="btn-secondary">← Try Another</a>
+      <a href="/analytics" class="btn-secondary">View Analytics Dashboard →</a>
+    </div>
+  </main>
+</body>
+</html>
